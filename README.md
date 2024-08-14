@@ -1,4 +1,4 @@
-👋 Olá, sou **_Naise_**
+Exemplo de descrição: 👋 Olá, sou **_Naise_**
 Eu tenho 17 anos
 
  * Atualmente curso a 3 série do EM na PEI Inocencio
