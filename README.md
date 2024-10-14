@@ -1,7 +1,5 @@
-Exemplo de descrição: 👋 Olá, sou **_Naise_**
-Eu tenho 17 anos
+Exemplo de descrição: 👋 Olá, sou **_Naise e os Alunos PEI Inocêncio Moreira_**
 
- * Atualmente curso a 3 série do EM na PEI Inocencio
 
  * Ciências da Natureza é  minha área de estudos preferida!
 
@@ -11,7 +9,6 @@ Eu tenho 17 anos
  
 *  O tipo de música que mais gosto é pagode.
 
-*  Meu projeto de vida é ser Perita Criminal.
 
 ![]( https://media1.tenor.com/m/LmW1bZbEd-sAAAAC/nazare-tedesco.gif)
 
